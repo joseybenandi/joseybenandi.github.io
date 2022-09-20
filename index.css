@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(0,124,51);
+    color:rgb(0,0,0);
     font-size:70px;
     *text-decoration:underline;*
 }
@@ -88,7 +88,7 @@ body {
     height:10vw;
     text-align:center;
     font-size:25px;
-    transform:rotate(-90deg);
+    *transform:rotate(-90deg);*
     background:transparent;
     color:#fff;
     position:fixed;
@@ -106,7 +106,7 @@ body {
     height:10vw;
     text-align:center;
     font-size:25px;
-    transform:rotate(90deg);
+    *transform:rotate(90deg);*
     background:transparent;
     color:#fff;
     position:fixed;
