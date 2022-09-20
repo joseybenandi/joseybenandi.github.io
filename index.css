@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
 
 body {
     padding:0px;
@@ -8,7 +8,7 @@ body {
     width:100vw;
     height:100vh;
     overflow:hidden;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 #loading {
     width: 100vw;
@@ -213,7 +213,7 @@ body {
 }
 .btn_one {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     color:#fff;
     background:transparent;
     border:3px solid #fff;
@@ -230,7 +230,7 @@ body {
 }
 .btn_two {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     color:rgb(255, 50, 50);
     background:#fff;
     border:3px solid #fff;
@@ -251,7 +251,7 @@ body {
     border:0px;
     border-bottom:3px solid rgba(255,255,255,0.5);
     padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size:18px;
     transition:0.4s ease-in-out;
     color:#fff;
@@ -264,7 +264,7 @@ body {
     border:0px;
     border-bottom:3px solid rgba(255,255,255,0.5);
     padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size:18px;
     background:transparent;
     resize:none;
