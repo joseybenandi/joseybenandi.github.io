@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:url("https://www.flickr.com/photos/196542111@N03/52370987958/in/dateposted-public/") center center;
+    background-image:url("https://www.flickr.com/photos/196542111@N03/52370987958/in/dateposted-public/") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
